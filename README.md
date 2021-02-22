@@ -23,7 +23,8 @@ macro.resilience (graph)
 ```
 **At macro level, we can use rn_macro function to get a big picture of the general resilience performance of graph.**<br /><br />
 Let's look at the macro resilience metrics:
-![Image description](Images/Macro_resilienceMatrix.png )<br />
+<img width="944" alt="1" src="https://user-images.githubusercontent.com/51216959/108700398-721dc180-74fe-11eb-8473-188bea39da6d.png">
+
 
 **At macro level, we can also include a dynamic perspective (percolation simulaiton) to look the resilience performance.**<br /><br />
 ``` r
