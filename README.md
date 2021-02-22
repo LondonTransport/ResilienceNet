@@ -32,7 +32,7 @@ g.gc_percolation(graph, cen=("deg", "bet", "clo"))
 
 g.gc_percolation_random(graph)
 ```
-![Image description](Images/Macro_percolation_sample.png)
+![2](https://user-images.githubusercontent.com/51216959/108700480-9083bd00-74fe-11eb-87bd-f9da6bcb32ac.png)
 
 
 
